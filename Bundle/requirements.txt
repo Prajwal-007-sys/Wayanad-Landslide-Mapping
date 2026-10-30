@@ -1,0 +1,18 @@
+# Base Dependencies
+numpy
+pillow
+scikit-learn
+matplotlib
+
+# GIS & Spatial Data Libraries
+geopandas
+shapely
+rasterio
+asf-search
+
+# Visualization and Widgets
+pyvista
+xvfbwrapper
+vtk
+panel
+jupyter_bokeh
